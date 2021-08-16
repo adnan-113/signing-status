@@ -1,0 +1,10 @@
+
+{
+    "stores":[
+        {
+            "name":"Serium",
+            "url":"https://serium.ml/",
+            "signed":false
+        },
+    ]
+}
