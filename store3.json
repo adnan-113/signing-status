@@ -1,0 +1,112 @@
+
+{
+    "stores":[
+        {
+            "name":"Scarlet",
+            "url":"https://usescarlet.com/",
+            "signed":true
+        }
+
+        {
+            "name":"Appvalley",
+            "url":"https://app-valley.vip/",
+            "signed":false
+        }
+    
+        {
+            "name":"Tutubox",
+            "url":"https://tutubox.io/",
+            "signed":false
+        }
+    
+        {
+            "name":"Eonhub",
+            "url":"https://app.eonhubapp.com/",
+            "signed":true
+        }
+  
+        {
+            "name":"Zeus",
+            "url":"https://getzeus.app/",
+            "signed":true
+        }
+
+        {
+            "name":"Panda Helper",
+            "url":"https://www.pandahelp.vip/",
+            "signed":true
+        }
+
+        {
+            "name":"Cokernutx",
+            "url":"https://www.cokernutx.com/",
+            "signed":true
+        }
+
+        {
+            "name":"iPA-Apps",
+            "url":"https://ipa-apps.me/",
+            "signed":true
+        }
+
+        {
+            "name":"Appcake",
+            "url":"https://www.iphonecake.com/app/",
+            "signed":false
+        }
+     
+        {
+            "name":"Jailbreaks.app",
+            "url":"https://jailbreaks.app/",
+            "signed":true
+        }
+
+        {
+            "name":"AppWeleux",
+            "url":"https://appweleux.com/Install-AppWeleux/",
+            "signed":false
+        }
+     
+        {
+            "name":"Altstore",
+            "url":"https://altstore.io/",
+            "signed":true
+        }
+  
+        {
+            "name":"Tweakdoor",
+            "url":"https://serium.ml/",
+            "signed":false
+        }
+ 
+        {
+            "name":"NeoStore",
+            "url":"https://serium.ml/",
+            "signed":false
+        }
+
+        {
+            "name":"NeoStore Signer",
+            "url":"https://serium.ml/",
+            "signed":false
+        }
+
+        {
+            "name":"iOS Haven",
+            "url":"https://ioshaven.com/install?theme=dark",
+            "signed":true
+        }
+  
+        {
+            "name":"iOS Gods",
+            "url":"https://app.iosgods.com/",
+            "signed":false
+        }
+    
+        {
+            "name":"Volt App",
+            "url":"https://voltapp.ml/",
+            "signed":false
+        }
+    ]
+}
