@@ -52,7 +52,7 @@
         {
             "name":"Starfiles",
             "url":"https://starfiles.co/",
-            "signed":false
+            "signed":true
         },
 
         {
@@ -81,19 +81,19 @@
   
         {
             "name":"Tweakdoor",
-            "url":"https://serium.ml/",
+            "url":"https://tweakdoor.com",
             "signed":false
         },
  
         {
             "name":"NeoStore",
-            "url":"https://serium.ml/",
+            "url":"https://idk.com/",
             "signed":false
         },
 
         {
             "name":"NeoStore Signer",
-            "url":"https://serium.ml/",
+            "url":"https://idk.com/",
             "signed":true
         },
 
