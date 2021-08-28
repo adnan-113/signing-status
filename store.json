@@ -4,19 +4,19 @@
         {
             "name":"Scarlet",
             "url":"https://usescarlet.com/",
-            "signed":false
+            "signed":true
         },
 
         {
             "name":"Appvalley",
             "url":"https://app-valley.vip/",
-            "signed":false
+            "signed":true
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":false
+            "signed":true
         },
     
         {
