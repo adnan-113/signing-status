@@ -84,18 +84,6 @@
             "url":"https://tweakdoor.com",
             "signed":false
         },
- 
-        {
-            "name":"NeoStore",
-            "url":"https://idk.com/",
-            "signed":false
-        },
-
-        {
-            "name":"NeoStore Signer",
-            "url":"https://idk.com/",
-            "signed":true
-        },
 
         {
             "name":"iOS Haven",
