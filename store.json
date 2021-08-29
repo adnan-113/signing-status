@@ -22,31 +22,31 @@
         {
             "name":"Eonhub",
             "url":"https://app.eonhubapp.com/",
-            "signed":false
+            "signed":true
         },
   
         {
             "name":"Zeus",
             "url":"https://getzeus.app/",
-            "signed":false
+            "signed":true
         },
 
         {
             "name":"Panda Helper",
             "url":"https://www.pandahelp.vip/",
-            "signed":false
+            "signed":true
         },
 
         {
             "name":"Cokernutx",
             "url":"https://www.cokernutx.com/",
-            "signed":false
+            "signed":true
         },
 
         {
             "name":"iPA-Apps",
             "url":"https://ipa-apps.me/",
-            "signed":false
+            "signed":true
         },
         
         {
@@ -64,7 +64,7 @@
         {
             "name":"Jailbreaks.app",
             "url":"https://jailbreaks.app/",
-            "signed":false
+            "signed":true
         },
 
         {
@@ -88,13 +88,13 @@
         {
             "name":"iOS Haven",
             "url":"https://ioshaven.com/install?theme=dark",
-            "signed":false
+            "signed":true
         },
   
         {
             "name":"iOS Gods",
             "url":"https://app.iosgods.com/",
-            "signed":false
+            "signed":true
         },
     
         {
