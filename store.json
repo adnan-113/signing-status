@@ -4,55 +4,55 @@
         {
             "name":"Scarlet",
             "url":"https://usescarlet.com/",
-            "signed":true
+            "signed":false
         },
 
         {
             "name":"Appvalley",
             "url":"https://app-valley.vip/",
-            "signed":true
+            "signed":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":true
+            "signed":false
         },
     
         {
             "name":"Eonhub",
             "url":"https://app.eonhubapp.com/",
-            "signed":true
+            "signed":false
         },
   
         {
             "name":"Zeus",
             "url":"https://getzeus.app/",
-            "signed":true
+            "signed":false
         },
 
         {
             "name":"Panda Helper",
             "url":"https://www.pandahelp.vip/",
-            "signed":true
+            "signed":false
         },
 
         {
             "name":"Cokernutx",
             "url":"https://www.cokernutx.com/",
-            "signed":true
+            "signed":false
         },
 
         {
             "name":"iPA-Apps",
             "url":"https://ipa-apps.me/",
-            "signed":true
+            "signed":false
         },
         
         {
             "name":"Starfiles",
             "url":"https://starfiles.co/",
-            "signed":true
+            "signed":false
         },
 
         {
@@ -64,7 +64,7 @@
         {
             "name":"Jailbreaks.app",
             "url":"https://jailbreaks.app/",
-            "signed":true
+            "signed":false
         },
 
         {
@@ -88,13 +88,13 @@
         {
             "name":"iOS Haven",
             "url":"https://ioshaven.com/install?theme=dark",
-            "signed":true
+            "signed":false
         },
   
         {
             "name":"iOS Gods",
             "url":"https://app.iosgods.com/",
-            "signed":true
+            "signed":false
         },
     
         {
