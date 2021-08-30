@@ -52,7 +52,7 @@
         {
             "name":"Starfiles",
             "url":"https://starfiles.co/",
-            "signed":false
+            "signed":true
         },
 
         {
