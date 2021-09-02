@@ -56,13 +56,6 @@
             "signed":false,
             "has_guide":false
         },
-        
-        {
-            "name":"Starfiles",
-            "url":"https://starfiles.co/",
-            "signed":true,
-            "has_guide":false
-        },
 
         {
             "name":"Appcake",
@@ -122,11 +115,11 @@
         
         {
             "name":"Starfiles",
-            "guide_name":"Everything You Need To Know about 3rd party appstores and signing iPA",
+            "guide_name":"Everything You Need To Know About 3rd Party App Stores and Signing IPAs",
             "url":"https://starfiles.co",
-            "signed":false,
-            "guide":"https://starfiles.co/blog/installing-ios-apps-using-starfiles",
-            "has_guide":true
+            "signed":true,
+            "has_guide":true,
+            "guide":"https://starfiles.co/blog/installing-ios-apps-using-starfiles"
         }
     ]
 }
