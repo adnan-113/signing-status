@@ -4,119 +4,119 @@
         {
             "name":"Scarlet",
             "url":"https://usescarlet.com/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"Appvalley",
             "url":"https://app-valley.vip/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Eonhub",
             "url":"https://app.eonhubapp.com/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://getzeus.app/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"Panda Helper",
             "url":"https://www.pandahelp.vip/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"Cokernutx",
             "url":"https://www.cokernutx.com/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"iPA-Apps",
             "url":"https://ipa-apps.me/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
         
         {
             "name":"Starfiles",
             "url":"https://starfiles.co/",
-            "signed":true
+            "signed":true,
             "has_guide":false
         },
 
         {
             "name":"Appcake",
             "url":"https://www.iphonecake.com/app/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
      
         {
             "name":"Jailbreaks.app",
             "url":"https://jailbreaks.app/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"AppWeleux",
             "url":"https://appweleux.com/Install-AppWeleux/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
      
         {
             "name":"Altstore",
             "url":"https://altstore.io/",
-            "signed":true
+            "signed":true,
             "has_guide":false
         },
   
         {
             "name":"Tweakdoor",
             "url":"https://tweakdoor.com",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"iOS Haven",
             "url":"https://ioshaven.com/install?theme=dark",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
   
         {
             "name":"iOS Gods",
             "url":"https://app.iosgods.com/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Volt App",
             "url":"https://voltapp.ml/",
-            "signed":false
+            "signed":false,
             "has_guide":false
         },
         
