@@ -124,6 +124,7 @@
             "name":"Starfiles",
             "guide_name":"Everything You Need To Know about 3rd party appstores and signing iPA",
             "url":"https://starfiles.co",
+            "signed":false,
             "guide":"https://starfiles.co/blog/installing-ios-apps-using-starfiles",
             "has_guide":true
         }
