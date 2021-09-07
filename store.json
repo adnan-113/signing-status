@@ -116,7 +116,7 @@
         
         {
             "name":"Starfiles",
-            "guide_name":"Everything You Need To Know About 3rd Party App Stores and Signing IPAs",
+            "guide_name":"Installing apps using Starfiles",
             "url":"https://starfiles.co",
             "signed":true,
             "has_guide":true,
