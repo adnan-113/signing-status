@@ -106,13 +106,6 @@
             "signed":true,
             "has_guide":false
         },
-        
-        {
-            "name":"Starfiles",
-            "url":"https://starfiles.co/",
-            "signed":true,
-            "has_guide":false
-        },
     
         {
             "name":"Volt App",
