@@ -5,49 +5,49 @@
             "name":"Scarlet",
             "url":"https://usescarlet.com/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
 
         {
             "name":"Appvalley",
             "url":"https://app-valley.vip/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
     
         {
             "name":"Eonhub",
             "url":"https://app.eonhubapp.com/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://getzeus.app/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
 
         {
             "name":"Panda Helper",
             "url":"https://www.pandahelp.vip/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
 
         {
             "name":"Cokernutx",
             "url":"https://www.cokernutx.com/",
             "signed":true,
-            "has_guide":true
+            "has_guide":false
         },
 
         {
