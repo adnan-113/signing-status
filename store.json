@@ -32,7 +32,7 @@
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -53,7 +53,7 @@
         {
             "name":"iPA-Apps",
             "url":"https://sts.st/url/XxxHKy",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
