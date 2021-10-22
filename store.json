@@ -68,7 +68,7 @@
         {
             "name":"Jailbreaks.app",
             "url":"https://sts.st/s/RdqtAp",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
