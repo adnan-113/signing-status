@@ -4,7 +4,7 @@
         {
             "name":"Scarlet",
             "url":"https://sts.st/s/6UyxVW",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -25,7 +25,7 @@
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
@@ -39,14 +39,14 @@
         {
             "name":"Panda Helper (Blacklisted)",
             "url":"https://sts.st/s/D6RvdD",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
         {
             "name":"Cokernutx (Blacklisted)",
             "url":"https://sts.st/s/stcLq7",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -103,7 +103,7 @@
         {
             "name":"iOS Gods",
             "url":"https://sts.st/s/iwcJbN",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
     
