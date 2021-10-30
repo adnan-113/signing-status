@@ -39,14 +39,14 @@
         {
             "name":"Panda Helper (Blacklisted)",
             "url":"https://sts.st/s/D6RvdD",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"Cokernutx (Blacklisted)",
             "url":"https://sts.st/s/stcLq7",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -68,7 +68,7 @@
         {
             "name":"Jailbreaks.app",
             "url":"https://sts.st/s/RdqtAp",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -99,11 +99,25 @@
             "signed":true,
             "has_guide":false
         },
+        
+        {
+            "name":"Ares",
+            "url":"https://sts.st/s/c2EbLe",
+            "signed":true,
+            "has_guide":false
+        },
+        
+        {
+            "name":"Bunny Inject",
+            "url":"https://sts.st/s/mpahqF",
+            "signed":true,
+            "has_guide":false
+        },
   
         {
             "name":"iOS Gods",
             "url":"https://sts.st/s/iwcJbN",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
     
