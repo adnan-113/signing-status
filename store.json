@@ -25,14 +25,14 @@
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -53,7 +53,7 @@
         {
             "name":"iPA-Apps",
             "url":"https://sts.st/url/XxxHKy",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -103,14 +103,14 @@
         {
             "name":"Ares",
             "url":"https://sts.st/s/c2EbLe",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
         
         {
             "name":"Bunny Inject",
             "url":"https://sts.st/s/mpahqF",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
   
