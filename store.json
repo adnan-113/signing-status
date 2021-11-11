@@ -4,7 +4,7 @@
         {
             "name":"Scarlet",
             "url":"https://sts.st/s/6UyxVW",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -25,14 +25,14 @@
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -75,7 +75,7 @@
         {
             "name":"AppWeleux",
             "url":"https://sts.st/s/JmqWuq",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
      
