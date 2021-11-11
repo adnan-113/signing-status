@@ -4,35 +4,35 @@
         {
             "name":"Scarlet",
             "url":"https://sts.st/s/6UyxVW",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
         {
             "name":"Appvalley",
             "url":"https://sts.st/s/V9ebKn",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
