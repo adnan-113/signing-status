@@ -75,7 +75,7 @@
         {
             "name":"AppWeleux",
             "url":"https://sts.st/s/JmqWuq",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
      
@@ -96,7 +96,7 @@
         {
             "name":"iOS Haven",
             "url":"https://sts.st/s/kVgESa",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
         
