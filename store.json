@@ -132,7 +132,7 @@
             "name":"Starfiles",
             "guide_name":"Installing apps using Starfiles",
             "url":"https://starfiles.co",
-            "signed":false,
+            "signed":true,
             "has_guide":true,
             "guide":"https://starfiles.co/blog/installing-ios-apps-using-starfiles"
         }
