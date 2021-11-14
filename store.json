@@ -11,14 +11,14 @@
         {
             "name":"Appvalley",
             "url":"https://sts.st/s/V9ebKn",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
     
@@ -53,7 +53,7 @@
         {
             "name":"iPA-Apps",
             "url":"https://sts.st/url/XxxHKy",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
