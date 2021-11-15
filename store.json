@@ -46,7 +46,7 @@
         {
             "name":"Cokernutx (Blacklisted)",
             "url":"https://sts.st/s/stcLq7",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
