@@ -103,7 +103,7 @@
         {
             "name":"iOS Haven",
             "url":"https://sts.st/s/kVgESa",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
         
