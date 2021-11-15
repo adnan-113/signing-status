@@ -32,14 +32,14 @@
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
         {
             "name":"Panda Helper (Blacklisted)",
             "url":"https://sts.st/s/D6RvdD",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -69,6 +69,13 @@
             "name":"Jailbreaks.app",
             "url":"https://sts.st/s/RdqtAp",
             "signed":false,
+            "has_guide":false
+        },
+        
+        {
+            "name":"JB-STORE (⚠ Risky, Might Be blacklisted)",
+            "url":"https://sts.st/s/LQnBJw",
+            "signed":true,
             "has_guide":false
         },
 
