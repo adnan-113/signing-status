@@ -4,7 +4,7 @@
         {
             "name":"Scarlet",
             "url":"https://sts.st/s/6UyxVW",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -25,7 +25,7 @@
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
@@ -110,21 +110,21 @@
         {
             "name":"Ares",
             "url":"https://sts.st/s/c2EbLe",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
         
         {
             "name":"Bunny Inject",
             "url":"https://sts.st/s/mpahqF",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
         {
             "name":"iOS Gods",
             "url":"https://sts.st/s/iwcJbN",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
     
