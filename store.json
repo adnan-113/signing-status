@@ -11,14 +11,14 @@
         {
             "name":"Appvalley",
             "url":"https://sts.st/s/V9ebKn",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
     
         {
             "name":"Tutubox",
             "url":"https://tutubox.io/",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
     
@@ -53,7 +53,7 @@
         {
             "name":"iPA-Apps",
             "url":"https://sts.st/url/XxxHKy",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -75,7 +75,7 @@
         {
             "name":"JB-STORE (⚠ Risky, Might Be blacklisted)",
             "url":"https://sts.st/s/LQnBJw",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
 
@@ -89,7 +89,7 @@
         {
             "name":"Altstore",
             "url":"https://sts.st/s/KGezFN",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
   
@@ -103,7 +103,7 @@
         {
             "name":"iOS Haven",
             "url":"https://sts.st/s/kVgESa",
-            "signed":true,
+            "signed":false,
             "has_guide":false
         },
         
@@ -139,7 +139,7 @@
             "name":"Starfiles",
             "guide_name":"Installing apps using Starfiles",
             "url":"https://starfiles.co",
-            "signed":true,
+            "signed":false,
             "has_guide":true,
             "guide":"https://starfiles.co/blog/installing-ios-apps-using-starfiles"
         }
