@@ -4,7 +4,7 @@
         {
             "name":"Scarlet",
             "url":"https://sts.st/s/6UyxVW",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -25,14 +25,14 @@
         {
             "name":"Eonhub",
             "url":"https://sts.st/s/6dt8sP",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
         {
             "name":"Zeus",
             "url":"https://sts.st/s/B7tX8c",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -53,7 +53,7 @@
         {
             "name":"iPA-Apps",
             "url":"https://sts.st/url/XxxHKy",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -68,14 +68,14 @@
         {
             "name":"Jailbreaks.app",
             "url":"https://sts.st/s/RdqtAp",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
         
         {
             "name":"JB-STORE (⚠ Risky, Might Be blacklisted)",
             "url":"https://sts.st/s/LQnBJw",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
 
@@ -110,14 +110,14 @@
         {
             "name":"Ares",
             "url":"https://sts.st/s/c2EbLe",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
         
         {
             "name":"Bunny Inject",
             "url":"https://sts.st/s/mpahqF",
-            "signed":false,
+            "signed":true,
             "has_guide":false
         },
   
