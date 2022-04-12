@@ -7,6 +7,13 @@
             "signed":true,
             "has_guide":false
         },
+        
+        {
+            "name":"Signtunes",
+            "url":"https://signtunes.com/",
+            "signed":true,
+            "has_guide":false
+        },
 
         {
             "name":"Appvalley",
